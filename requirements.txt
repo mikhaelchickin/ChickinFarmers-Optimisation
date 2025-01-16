@@ -2,3 +2,5 @@ numpy
 streamlit
 joblib
 lightgbm
+scikit-learn
+pandas
